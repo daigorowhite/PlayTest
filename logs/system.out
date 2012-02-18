@@ -1,0 +1,12 @@
+Listening for transport dt_socket at address: 8000
+09:25:04,270 INFO  ~ Starting /Users/daigoro/WorkSpace/play/test
+09:25:04,916 WARN  ~ You're running Play! in DEV mode
+~
+~ Go to http://localhost:9000/@tests to run the tests
+~
+09:25:05,022 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+09:25:07,314 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+09:25:07,343 INFO  ~ Application 'ls' is now started !
+Hello, daigoro
+Hello, daigoro
+@KILLED
